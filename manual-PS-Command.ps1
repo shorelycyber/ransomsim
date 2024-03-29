@@ -78,8 +78,7 @@ $objLabel = New-Object System.Windows.Forms.label
 $objLabel.Text = "[Encrypt Delete Test v4.1]
 Simulate ransomware encryption operation
 By Eddie Chu eddiechu.android@gmail.com
-Please download the original and latest version from https://github.com/eddiechu/Encrypt-Delete-Test
-Version v4.1 (11/Sep/2022)`r`n
+
 This tool encrypts - overwrites - renames the file under selected folder and it's subfolder(s))`r`n
 [Caution]
 You use this tool completely at your own risk.
