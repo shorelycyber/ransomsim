@@ -77,7 +77,7 @@ $objForm.StartPosition = "CenterScreen"
 $objLabel = New-Object System.Windows.Forms.label
 $objLabel.Text = "[Encrypt Delete Test v4.1]
 Simulate ransomware encryption operation
-By Eddie Chu eddiechu.android@gmail.com
+
 
 This tool encrypts - overwrites - renames the file under selected folder and it's subfolder(s))`r`n
 [Caution]
